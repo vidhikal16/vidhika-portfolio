@@ -20,7 +20,7 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 <iframe src="https://data.oecd.org/chart/6Blf" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Blf" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 #### 2. Line Graph of Debt-to-GDP ratio per country 
-Line Graph showing the countries' debt-to-gdp ratio sorted in alphabetical order. 
+Line Graph showing the countries' debt-to-gdp ratio sorted in alphabetical order. The neutral tone is signified by the light blue color. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8564788"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### 3. Japan shows highest sustainability of Government Finance
