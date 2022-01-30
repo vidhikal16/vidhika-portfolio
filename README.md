@@ -26,4 +26,3 @@ Line Graph showing the countries' debt-to-gdp ratio sorted in alphabetical order
 #### Japan shows highest sustainability of Government Finance
 The Line graph shows the Countries sorted in decreasing order of Debt-to-GDP ratio. The choice of green color shows the positive aspect of sustainability of govermental finance by the country. Now we see clarity in the performance by the coutries towards their finance by ranking them higher to lower. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8564970"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
