@@ -7,7 +7,7 @@ Link: https://datausa.io/profile/soc/police-officers
 Title: Yearly Wage
 
 <iframe width="720px" height="480px" src="https://datausa.io/profile/soc/police-officers/employment/wage_by_industry?viz=false" frameborder="0" ></iframe>
-
+<iframe width="1440px" height="1080px" src="https://datausa.io/profile/soc/police-officers/employment/wage_by_industry?viz=false" frameborder="0" ></iframe>
 
 ## Step two: critique the data visualization
 
