@@ -7,7 +7,6 @@ Link: https://datausa.io/profile/soc/police-officers
 Title: Yearly Wage
 
 <iframe width="720px" height="480px" src="https://datausa.io/profile/soc/police-officers/employment/wage_by_industry?viz=false" frameborder="0" ></iframe>
-<iframe width="1440px" height="1080px" src="https://datausa.io/profile/soc/police-officers/employment/wage_by_industry?viz=false" frameborder="0" ></iframe>
 
 ## Step two: critique the data visualization
 
@@ -52,12 +51,12 @@ My recommendation is around the information display:
 
 ## Step five: Build your solution
 
-<div class='tableauPlaceholder' id='viz1644288537429' style='position: relative'><noscript><a href='#'><img alt='Police Officers&#39; Salary is greater than National Average Salary And other occupations that have comparable average salary  ' src='N8&#47;N8W9X933X&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;N8W9X933X' /> <param name='toolbar' value='yes' /><param name='static_image' value='N8&#47;N8W9X933X&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>
-  var divElement = document.getElementById('viz1644288537429');
-  var vizElement = divElement.getElementsByTagName('object')[0];
+<div class='tableauPlaceholder' id='viz1644288873072' style='position: relative'><noscript><a href='#'><img alt='Police Officers&#39; Salary is greater than National Average Salary And other occupations that have comparable average salary  ' src='ZF&#47;ZFJ7JP3JK&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;ZFJ7JP3JK' /> <param name='toolbar' value='yes' /><param name='static_image' value='ZF&#47;ZFJ7JP3JK&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1644288873072');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';
-  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
