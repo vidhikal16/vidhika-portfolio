@@ -25,6 +25,8 @@ I also found other insights which are captured in the Google form. This exercise
 
 I wireframed the solution using my iPad. I did not choose to use tool for this step, as I wanted to able to able to draw the visualization as I want and not be limitied to the tools, which I believe was a good decision because later when I designed the final solution, it took a lot of time to configure settings just to visualize what I wanted. With iPad, I was able to quickly draw what I thought was important. 
 
+![Untitled (Draft)-1-6](https://user-images.githubusercontent.com/90984614/152914577-5d867986-534b-4010-aa42-44ec355f7202.jpg)
+
 I majorly focused on a few things like:
  1. Give an explanatory title 
  2. Mark the national average salary with a line 
