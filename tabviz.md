@@ -8,7 +8,7 @@ Title: Yearly Wage
 
 <iframe width="720px" height="480px" src="https://datausa.io/profile/soc/police-officers/employment/wage_by_industry?viz=false" frameborder="0" ></iframe>
 
-I chose this visualization because the thing 
+I chose this visualization because the thing that
 
 ## Step two: critique the data visualization
 
