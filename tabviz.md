@@ -2,7 +2,7 @@
 
 ## Step one: find a data visualization
 
-Link: https://datausa.io/profile/soc/police-officers
+[Link here](https://datausa.io/profile/soc/police-officers)
 
 Title: Yearly Wage
 
