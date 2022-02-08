@@ -1,4 +1,4 @@
-# Assignment 3 & 4
+# Assignment 3 & 4: Critique by Design
 
 ## Step one: find a data visualization
 
@@ -64,7 +64,16 @@ I also got positive feedback about color selection and minimalist design.
 
 ## Step five: Build your solution
 
-Based on the feedback I got till now, I made the final solution using the Tableau. I used the data provided on the DATA USA webiste, 
+Based on the feedback I got till now, I made the following final changes:
+1. I reverted the x and y axis, it looks better now because users tend to see values on the y- axis and it is visually more clear on the difference between the average salary and national average salary. 
+2. I changed the police officer's bar color to blue - as it looks more associated color than yellow.
+3. I shortened the occupation names , which is easy to read.
+4. I put the salary value as the label over the bar, which becomes easy to see the salary than mapping it manually.
+5. I put a simple title - might not have a major takeaway, but tells what the user is expected to see. The subtitle conveys why there are 5 occupations in the visualization. 
+
+I tried to keep the visualization simple, yet it was a good learning experience to see how different elements contribute towards the overall visualization. 
+
+I made the final solution using the Tableau. I used the data provided on the DATA USA webiste, and after hours of efforts I made the following visualization:
 
 <div class='tableauPlaceholder' id='viz1644288873072' style='position: relative'><noscript><a href='#'><img alt='Police Officers&#39; Salary is greater than National Average Salary And other occupations that have comparable average salary  ' src='ZF&#47;ZFJ7JP3JK&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;ZFJ7JP3JK' /> <param name='toolbar' value='yes' /><param name='static_image' value='ZF&#47;ZFJ7JP3JK&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
