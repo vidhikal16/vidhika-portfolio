@@ -11,10 +11,13 @@ Also, I like to go out, take a walk, ride a bus before I begin my class - so not
 Get handy with data visualization. 
 
 ## Portfolio 
-Learned how to effectively use colors! Fun class :) 
+Please check my work below 👇  
 
-### Assignment 2 
+#### Assignment 2 
 -[Link here](https://vidhikal16.github.io/vidhika-portfolio/flourishviz.html)
 
 #### Assignment 3 & 4 
 -[Take me there!](https://vidhikal16.github.io/vidhika-portfolio/tabviz.html)
+
+### Final Project 
+-[Link here]
