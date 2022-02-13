@@ -43,6 +43,30 @@ The primary source of the data for my project is Our World in Data: -[Link here]
 There are many datasets available on other sites including Our World in Data. The relevant datasets that I have found till now are uploaded in my Github Repository. 
 I will be refinine the visualizations and convey the key information which align with my project. The links to those repositories: 
 
-1. -[One Person Households]https://github.com/vidhikal16/vidhika-portfolio/blob/f9522531de564871cb61137594e89f4a34410cb1/one-person-households.csv
+1. -[One Person Households](https://github.com/vidhikal16/vidhika-portfolio/blob/f9522531de564871cb61137594e89f4a34410cb1/one-person-households.csv)
+2. -[Productivity per hour](https://github.com/vidhikal16/vidhika-portfolio/blob/43321856a39ea781e719a70b118e9ad69f74222d/labor-productivity-per-hour-PennWorldTable.csv)
+3. -[Proportion of unemployed](https://github.com/vidhikal16/vidhika-portfolio/blob/43321856a39ea781e719a70b118e9ad69f74222d/proportion-of-unemployed-using-specific-search-methods.csv)
+4. -[Self Reported Loneliness](https://github.com/vidhikal16/vidhika-portfolio/blob/43321856a39ea781e719a70b118e9ad69f74222d/self-reported-loneliness-older-adults.csv)
+
+These are some of the datasets, which I will be using to build visualizations which depicts: 
+1. Number of lonely adults
+2. How material well-being is related with the socialization 
+3. Productivity associated with happiness
+4. Numer of people living alone is increasing over the years - people live alone more these days
+
+In addition to these data sets, I am going to find more similar data which is going to help me strengthen the argument.
+
+## Method and Medium
+
+The platform I plan on presenting my project is shorthand. I belive it will make the story coherent and will be able to communicate the story succinctly. 
+
+The approach for my project would be:
+1. Refine the story line: Will put together my ideas once again to see if the reader will be able to connect the dots and make any changes necessary. 
+2. Find more data: I will try and find more datasets through which I will be able create visualizations which conveys the important information. 
+3. Build visualization: I will create the visualization using tableau as I feel it gives more flexibity and options.
+4. Ask for feedback: I will ask around my friends to see if the story looks compelling and interesting, and if that makes them learn more about it. 
+5. Improve as I receive the feedback: Based on the feedback I receive, I will make the changes. 
+6. Citations: During the whole process, I will make sure to put the citations at place. 
+7. 
 
 
