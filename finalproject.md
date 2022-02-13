@@ -67,6 +67,6 @@ The approach for my project would be:
 4. Ask for feedback: I will ask around my friends to see if the story looks compelling and interesting, and if that makes them learn more about it. 
 5. Improve as I receive the feedback: Based on the feedback I receive, I will make the changes. 
 6. Citations: During the whole process, I will make sure to put the citations at place. 
-7. 
+
 
 
