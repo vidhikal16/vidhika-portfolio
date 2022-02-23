@@ -46,7 +46,7 @@ d. Findings from the interviews:
 | Do you think the board has relevant informatiom for you? | The physical health information - increase brain health is interesting. | Yes, definitely. Some of the information is repetitive but I would read it all later. | Yes, since I don't socialize, these facts are interesting to know | 
 | How you feel about data visualizations provided here? |  Happiness and Friends - had to zoom, not placed properly. Others are good. | Are theoretical - happiness and friends - can’t read it. Can’t skim through it quickly. Important information could be highlighted. | I would like to see more visualizations, some of them are interesting, but not all like - happiness and friends, I kind of know that already |
 | What other information would you like to see? | Since it should be both ways - I would like to see more - from a university perspective - would like to engage in more group assignments. | Something that promotes the use of social media for healthy well-being. How can we leverage social media to tackle this issue? | If there are more intersting facts |
-| Would you check videos or external links? | I would like to check physical health video, not the other one. | I would not check the external links but would I would check out the videos later. | Yes I would check the physical health video and the links |
+| Would you check videos or external links? | I would like to check physical health video, not the other one. | I would not check the external links but would I would check out the videos later. | Yes, I like videos better than texts, I would check the physical health video and the links |
 | Do you feel like taking the actions mentioned in the storyboard? | Add more information on what both employee and employers can do - give examples like there are examples for students. Young professionals - change to professionasl - just not the young ones. Also, add some of the events from the site and say for more information visit the link. | I would like to see more actions that can be taken. Some kind of wellness center. I would also like to see more for all age groups and someone who is home school. Something like coffee chat. For someone who is starting - for them coffee chat is good. Link is nice - but it was not intuitive much. | Yes, but for a professional like me, I don't see much options. | 
 
 e. Future Changes
@@ -55,7 +55,7 @@ e. Future Changes
 
 2. I am planning on more data visualizations, which I will be creating using Flourish or Tableau. I couldn't add much data visualizations in Part - 2, as I thought I already had a number of pieces to put togther, to convey my story.
 
-3. Small tweaks in Text font and color: I will make the Title Page's section bigger with bolder title. 
+3. I would remove the generic information, and kind of focus more on the new information, like remove the productivity at work section, that no one found interesting. 
 
 4. Call to action: I would also add more action items for the audience to check 
 a. I will add some events happening nearby to highlight on the main page and then add link to check out more.
@@ -63,6 +63,9 @@ b. I will include broader age group professionals.
 c. I will add more action items for a professional and a manager.
 
 5. I will the page more consistent with theme and color - either dark or light. 
+
+6. Small tweaks in Text font and color: I will make the Title Page's section bigger with bolder title. 
+
 
 
 
