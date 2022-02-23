@@ -35,17 +35,19 @@ Question 2 - Is there any new information you found through the storyboard?
 Question 3 - Do you think the board has relevant informatiom for you?
 Question 4 - How you feel about data visualizations provided here?
 Question 5 - What other information would you like to see? 
-Question 6 - Do you feel like taking the actions mentioned in the storyboard?
+Question 6 - Would you check videos or external links? 
+Question 7 - Do you feel like taking the actions mentioned in the storyboard?
 
 d. Findings from the interviews:
 
 | Questions | Interviewee 1 | Interviewee 2 | Interviewee 3 |
-| What did you hope to see in the storyboard after looking at the title slide? |
-| Is there any new information you found through the storyboard? |
-| Do you think the board has relevant informatiom for you? |
-| How you feel about data visualizations provided here? |
-| What other information would you like to see? |
-| Do you feel like taking the actions mentioned in the storyboard? |
+| What did you hope to see in the storyboard after looking at the title slide? | How a person evolves socially? It is going to talk about health, not just professional work or money, emotionally and everything. | 
+| Is there any new information you found through the storyboard? | West Berlin - that was something new and interesting to see there is economic impact too, did not expect it. |
+| Do you think the board has relevant informatiom for you? | The physical health information - increase brain health is interesting. |
+| How you feel about data visualizations provided here? |  Happiness and Friends - had to zoom, not placed properly. Others are good. |
+| What other information would you like to see? | Since it should be both ways - I would like to see more - from a university perspective - would like to engage in more group assignments. |
+| Would you check videos or external links? | I would like to check physical health video, not the other one. |
+| Do you feel like taking the actions mentioned in the storyboard? | Add more information on what both employee and employers can do - give examples like there are examples for students. Young professionals - change to professionasl - just not the young ones. Also, add some of the events from the site and say for more information visit the link. | 
 
 
 e. changes you plan on implementing to your visualizations next week to address the issues identified. 
