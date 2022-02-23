@@ -12,9 +12,9 @@ The target audience that I have identified are young people of age 20-35 years. 
 
 b. Approach to identifying representative individuals to interview:
 For my user research, I plan to interview 3 of my friends whose characteristics are as follows:
-1. Female, 27 years, Student, USA: Doing her Master's after 3 years of work experience 
-2. Female, 24 years, Student, USA: Doing her Master's right after undergrad
-3. Male, 28 years, Working Professional, USA: Working after completing Master's degree
+1. Interviewee 1: Female, 27 years, Student, USA: Doing her Master's after 3 years of work experience 
+2. Interviewee 2: Female, 24 years, Student, USA: Doing her Master's right after undergrad
+3. Interviewee 3: Male, 28 years, Working Professional, USA: Working after completing Master's degree
 
 I chose to interview a mix of users where I will be able to get reviews from someone who has had work experience and is a student, who is working right now and had been a student and someone who is a student and doesn't have work experience at all. 
 
@@ -38,6 +38,15 @@ Question 5 - What other information would you like to see?
 Question 6 - Do you feel like taking the actions mentioned in the storyboard?
 
 d. Findings from the interviews:
+
+| Questions | Interviewee 1 | Interviewee 2 | Interviewee 3 |
+| What did you hope to see in the storyboard after looking at the title slide? |
+| Is there any new information you found through the storyboard? |
+| Do you think the board has relevant informatiom for you? |
+| How you feel about data visualizations provided here? |
+| What other information would you like to see? |
+| Do you feel like taking the actions mentioned in the storyboard? |
+
 
 e. changes you plan on implementing to your visualizations next week to address the issues identified. 
 
