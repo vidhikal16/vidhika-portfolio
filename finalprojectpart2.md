@@ -49,6 +49,18 @@ d. Findings from the interviews:
 | Would you check videos or external links? | I would like to check physical health video, not the other one. | I would not check the external links but would I would check out the videos later. | Yes I would check the physical health video |
 | Do you feel like taking the actions mentioned in the storyboard? | Add more information on what both employee and employers can do - give examples like there are examples for students. Young professionals - change to professionasl - just not the young ones. Also, add some of the events from the site and say for more information visit the link. | I would like to see more actions that can be taken. Some kind of wellness center. I would also like to see more for all age groups and someone who is home school. Something like coffee chat. For someone who is starting - for them coffee chat is good. Link is nice - but it was not intuitive much. | Yes, but for a professional like me, I don't see much options. | 
 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+e. Future Changes
+
+1. I am planning on adding the social media aspect as well. This was one of the recommendations that I got from the interviewee, which makes sense to me - how social media adds to this topic because social media has become a big part of our lives; and social connections todays mostly rely on social media platforms.
+
+2. I am planning on more data visualizations, which I will be creating using Flourish or Tableau. I couldn't add much data visualizations in Part - 2, as I thought I already had a number of pieces to put togther, to convey my story.
+
+3. Small tweaks in Text font and color: I will make the Title Page's section bigger with bolder title. 
+
+4. Call to action: I would also add more action items for the audience to check 
+a. I will add some events happening nearby to highlight on the main page and then add link to check out more.
+b. I will include broader age group professionals.
+c. I will add more action items for a professional and a manager.
+
 
 
