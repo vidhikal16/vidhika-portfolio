@@ -20,4 +20,8 @@ Please check my work below 👇
 -[Take me there!](https://vidhikal16.github.io/vidhika-portfolio/tabviz.html)
 
 ### Final Project 
--[Link here](https://vidhikal16.github.io/vidhika-portfolio/finalproject.html)
+[Part 1](https://vidhikal16.github.io/vidhika-portfolio/finalproject.html)
+
+[Part 2](https://vidhikal16.github.io/vidhika-portfolio/finalprojectpart2.html)
+
+
