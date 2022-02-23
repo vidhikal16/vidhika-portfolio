@@ -62,5 +62,7 @@ a. I will add some events happening nearby to highlight on the main page and the
 b. I will include broader age group professionals.
 c. I will add more action items for a professional and a manager.
 
+5. I will the page more consistent with theme and color - either dark or light. 
+
 
 
