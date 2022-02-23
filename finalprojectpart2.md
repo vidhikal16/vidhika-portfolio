@@ -41,13 +41,14 @@ Question 7 - Do you feel like taking the actions mentioned in the storyboard?
 d. Findings from the interviews:
 
 | Questions | Interviewee 1 | Interviewee 2 | Interviewee 3 |
-| What did you hope to see in the storyboard after looking at the title slide? | How a person evolves socially? It is going to talk about health, not just professional work or money, emotionally and everything. | 
-| Is there any new information you found through the storyboard? | West Berlin - that was something new and interesting to see there is economic impact too, did not expect it. |
-| Do you think the board has relevant informatiom for you? | The physical health information - increase brain health is interesting. |
-| How you feel about data visualizations provided here? |  Happiness and Friends - had to zoom, not placed properly. Others are good. |
-| What other information would you like to see? | Since it should be both ways - I would like to see more - from a university perspective - would like to engage in more group assignments. |
-| Would you check videos or external links? | I would like to check physical health video, not the other one. |
-| Do you feel like taking the actions mentioned in the storyboard? | Add more information on what both employee and employers can do - give examples like there are examples for students. Young professionals - change to professionasl - just not the young ones. Also, add some of the events from the site and say for more information visit the link. | 
+| What did you hope to see in the storyboard after looking at the title slide? | How a person evolves socially? It is going to talk about health, not just professional work or money, emotionally and everything. | I felt it is about social platforms, how can we use social media to boost our healthy well-being because we can’t get rid of it.|
+| Is there any new information you found through the storyboard? | West Berlin - that was something new and interesting to see there is economic impact too, did not expect it. | Some facts like loneliness is similar to 15 cigarettes. I did not know exactly which components of physical health is affected - it is new to me. I knew it implacts physical health but not what exactly.  Economic effect is new to me. | 
+| Do you think the board has relevant informatiom for you? | The physical health information - increase brain health is interesting. | Yes, definitely. Some of the information is repetitive but I would read it all later. |
+| How you feel about data visualizations provided here? |  Happiness and Friends - had to zoom, not placed properly. Others are good. | Are theoretical - happiness and friends - can’t read it. Can’t skim through it quickly. Important information could be highlighted. |
+| What other information would you like to see? | Since it should be both ways - I would like to see more - from a university perspective - would like to engage in more group assignments. | Something that promotes the use of social media for healthy well-being. How can we leverage social media to tackle this issue? |
+| Would you check videos or external links? | I would like to check physical health video, not the other one. | I would not check the external links but would I would check out the videos later. |
+| Do you feel like taking the actions mentioned in the storyboard? | Add more information on what both employee and employers can do - give examples like there are examples for students. Young professionals - change to professionasl - just not the young ones. Also, add some of the events from the site and say for more information visit the link. | I would like to see more actions that can be taken. Some kind of wellness center. I would also like to see more for all age groups and someone who is home school. Something like coffee chat. For someone who is starting - for them coffee chat is good. Link is nice - but it was not intuitive much. Events example and then check for more. |
+
 
 
 e. changes you plan on implementing to your visualizations next week to address the issues identified. 
