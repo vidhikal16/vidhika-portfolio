@@ -4,6 +4,7 @@ The Final Project: Social Connections for Healthy Well-Being
 
 ## Part 1
 [Part 1 link here](https://vidhikal16.github.io/vidhika-portfolio/finalproject.html)
+
 When I reflect back to the journey of the final project, I understand the importance of Part 1 where I had to develop the structure of the project, find datasets for visualization and developing the rough sketches. It helped me put the structure together and understand which data would be required for my topic. I found some good data - relationship between friends and happiness, productivity per hour impact on the GDP of the country. 
 
 Target Audience: I had a broad target audience in the Part 1 - the general public, which I planned to narrow down to students and young professionals moving forward. This let me find some facts which were precisely relevant to the audience. 
@@ -12,6 +13,7 @@ Call to Action: The call to action was also pretty general for the broader audie
 
 ## Part 2
 [Part 2 link here](https://vidhikal16.github.io/vidhika-portfolio/finalproject2.html)
+
 In part 2, I made a significant improvement wherein I was able to create the storyboard using Shorthand. It was fun to actually starting putting everything together to build a story around the topic. I used the resources in: 
 a. collecting facts and data
 b. built visualization on the datasets 
