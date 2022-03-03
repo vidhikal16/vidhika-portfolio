@@ -19,9 +19,14 @@ Please check my work below 👇
 #### Assignment 3 & 4 
 -[Take me there!](https://vidhikal16.github.io/vidhika-portfolio/tabviz.html)
 
-### Final Project 
+### Final Project
+
+[Storyboard](https://carnegiemellon.shorthandstories.com/social-connections-for-healthy-well-being/index.html)
+
 [Part 1](https://vidhikal16.github.io/vidhika-portfolio/finalproject.html)
 
 [Part 2](https://vidhikal16.github.io/vidhika-portfolio/finalprojectpart2.html)
+
+[Part 3](https://vidhikal16.github.io/vidhika-portfolio/finalprojectpart3.html)
 
 
