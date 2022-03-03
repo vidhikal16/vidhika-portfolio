@@ -45,4 +45,10 @@ Finally, I decided to focus more on the audience of students and young professio
 
 Overall, it was a fun experience working on something very first time on building the visualizations on my own and using it to tell a story to the audience. The overall flow of finding the argument, understanding it, finding the right audience and them building a narrative to put across your thought. I got to understand the embedding of visualizations in a platform like Shorthand. I also got an idea about how useful and effective way it is use to visualizations to tell a story. 
 
+### Further Improvement
+To improve this story further, I would put more efforts on the following areas:
+1. Focused and curated information on more narrowed down audience by presenting more visualizations focused on the audience 
+2. Improve on the call to action - add more resources 
+3. Make the visuals and color coding more consistent 
+
 
