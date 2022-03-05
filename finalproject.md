@@ -1,6 +1,10 @@
 # Part-1 Final Project
 
-## Outline 
+[Storyboard](https://carnegiemellon.shorthandstories.com/social-connections-for-healthy-well-being/index.html)
+
+[Part 2](https://vidhikal16.github.io/vidhika-portfolio/finalprojectpart2.html)
+
+[Part 3](https://vidhikal16.github.io/vidhika-portfolio/finalprojectpart3.html)
 
 ### Summary 
 
