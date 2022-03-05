@@ -7,19 +7,25 @@ Hi! My name is Vidhika Lonare (she/her). I'm a second year student in Informatio
 
 Also, I like to go out, take a walk, ride a bus before I begin my class - so not enjoying the online classes. But the course looks inetersting, looking forward to it! 
 
-## What I hope to learn
-Get handy with data visualization. 
+## Learnings
+The top 5 learnings through the course "Telling Stories with Data" by Christopher Goranson <cgoranso@andrew.cmu.edu> were:
+1. How to effectively tell a story using data visualizations
+2. Use of the platforms - Flourish, Tableau, Storyboard, etc
+3. Smart way of using colors for data visualizations 
+4. The art of persuasion through data visualizations
+5. The art of critiquing data visualizations
 
 ## Portfolio 
 Please check my work below 👇  
 
-#### Assignment 2 
--[Link here](https://vidhikal16.github.io/vidhika-portfolio/flourishviz.html)
+#### Flourish Visualizations 
+[Click here](https://vidhikal16.github.io/vidhika-portfolio/flourishviz.html)
 
-#### Assignment 3 & 4 
--[Take me there!](https://vidhikal16.github.io/vidhika-portfolio/tabviz.html)
+#### Tableau Visualizations 
+[Click here](https://vidhikal16.github.io/vidhika-portfolio/tabviz.html)
 
-### Final Project
+### Social Connections for Healthy Well-Being
+A project which highlights the key information on how social connections help in maintaining healthy well-being which includes the use of some data visualizations. Please click on the link below to check it out. 
 
 [Storyboard](https://carnegiemellon.shorthandstories.com/social-connections-for-healthy-well-being/index.html)
 
