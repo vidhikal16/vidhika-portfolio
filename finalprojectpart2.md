@@ -1,5 +1,9 @@
 # Part 2
 
+[Part 1](https://vidhikal16.github.io/vidhika-portfolio/finalproject.html)
+
+[Part 3](https://vidhikal16.github.io/vidhika-portfolio/finalprojectpart3.html)
+
 ## Storyboard
 
 I have created the storyboard using Shorthand. Here's the link: 
